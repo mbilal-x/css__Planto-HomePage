@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Open Sans', sans-serif;
+    color: #777;
+}
+
+body{
+    background-color: #e0d1d33d;
+}
+
+nav.container{
+    font-size: 1.7rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.nav--menu > li{
+    margin: 0 10px;
+    list-style: none;
+    display: inline-block;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+#C{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+}
+#P{
+    font-size: 1.5rem;
+}
+
+.nav-bar{
+    
+    display: flex;
+    align-items: center;
+}
+
+.login-btn-box {
+    font-size: 1.7rem;
+    
+}
+
+.login-btn{
+    display: inline-block;
+    margin: 10px;
+    padding: 8px 10px;
+    
+}
+
+
+#btn--2{
+    background-color: black;
+}
+#btn--2 a{
+    color: azure;
+}
+
+#btn--1 a{
+    color: black;
+}
+
+
+/* ______________________MAIN____________________ */
+
+.main-container{
+    margin: 5rem 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.image-container{
+    margin: 0 2rem;
+}
+
+
+.image-bg-pink{
+    background-color: #ff95a3;
+    height: 25rem;
+    width: 40rem;
+}
+
+.business-woman img{
+    height: 25rem;
+}
+]
+
+.box-black-sm{
+    background-color: #000000;
+    height: 100px;
+    z-index: 2;
+}
+.box-black-md{
+    
+}
+
+.bold-heading{
+    font-weight: bolder;
+    font-size: 3rem;
+    color: black;
+}
+.light-heading{
+    font-weight: normal;
+    font-size: 3rem;
+    color: #131312;
+
+}
+
+#cl{
+    font-weight: bold;
+    color: #131312;
+}
+
+.image-container ul{
+    list-style-type: square;
+}
+.image-container li{
+    font-size: 2rem;
+    color: black;
+}
+
+
+.mini-list-flex{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+.sub-text{
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+.sub-text-2{
+    font-size: 1rem;
+    color: #777;
+    margin: 1rem;
+}
+
+.main-text-container{
+    margin: 0 3rem;
+    margin-top: 3rem;
+}
+
+.arrow-down{
+    display: flex;
+    justify-content: center;
+}
+
