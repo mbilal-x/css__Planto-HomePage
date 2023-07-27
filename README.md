@@ -29,7 +29,7 @@ To view the project, you can follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://ithub.com/mbilal-x/css__Planto-HomePage.git
+git clone https://github.com/mbilal-x/css__Planto-HomePage.git
 ```
 
 2. Navigate to the project directory.
