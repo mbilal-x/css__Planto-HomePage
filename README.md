@@ -1,6 +1,6 @@
 # Planto Home Page - Front-end Web Design Practice
 
-![Planto Home Page](link_to_your_image_here)
+![Planto Home Page](./planto_desktop_screenshot.png)
 
 This repository contains a front-end web design practice project called "Planto Home Page," inspired by a design from Dribbble. The main goal of this project is to improve my understanding and proficiency in using flexboxes for creating responsive and flexible layouts.
 
